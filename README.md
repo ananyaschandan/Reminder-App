@@ -51,12 +51,15 @@ Make sure you have [Node.js](https://nodejs.org/) installed.
     ```
 
 ## Usage
+1. **Open App:** Navigate to `http://localhost:5173/` in your browser.
+2. **Permissions:** Allow browser notifications when prompted.
+3. **Add Reminder:** Click **"New Reminder"** and fill out the details (set a due date 1 minute from now).
+4. **Check List:** Verify the reminder appears in the **"My Reminders"** list and the **"Upcoming"** dashboard card.
+5. **Wait for Notification:** Wait for the due time and verify a system notification appears.
+6. **Filter:** Try searching for the reminder or filtering by priority.
+7. **Edit/Delete:** Try updating or removing the reminder.
 
-1.  Open the application in your browser (usually at `http://localhost:5173`).
-2.  Click "New Reminder" to add a task.
-3.  Fill in the details and save.
-4.  Allow browser notifications when prompted to receive alerts.
-
+---
 ## Project Structure
 
 ```
