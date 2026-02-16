@@ -31,7 +31,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed.
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone <https://github.com/ananyaschandan/Reminder-App/tree/main>
     cd reminder-app
     ```
 
